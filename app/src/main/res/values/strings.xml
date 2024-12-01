@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplikacje Mobilne</string>
+    <string name="dialog_title">Brawo!</string>
+    <string name="dialog_content">Udało się wyświetlić alert!</string>
+</resources>
